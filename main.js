@@ -308,49 +308,49 @@ const main = {
         },
         {
             name: 'Ánh chiều tàn',
-            singer: 'Not singer',
+            singer: 'No singer',
             path: './assets/mp3/y2meta.com - D Empty - ÁNH CHIỀU TÀN ft. Poll (Prod. by Vic) _ OFFICIAL LYRIC VIDEO (128 kbps).mp3',
             image: './assets/img/anhchieutan.png',
             lyric: `No lyric`
         },
         {
             name: 'ID-T41104',
-            singer: 'Not singer',
+            singer: 'No singer',
             path: './assets/mp3/y2meta.com - id T41104-W_n (267) Lyric Video (128 kbps).mp3',
             image: './assets/img/idt41104.png',
             lyric: `No lyric`
         },
         {
             name: 'Liệu đến bao giờ',
-            singer: 'Not singer',
+            singer: 'No singer',
             path: './assets/mp3/y2meta.com - [ Demo ] Liệu Đến Bao Giờ - Nguyenn (128 kbps).mp3',
             image: './assets/img/lieudenbaogio.png',
             lyric: `No lyric`
         },
         {
             name: 'Nếu lúc đó',
-            singer: 'Not singer',
+            singer: 'No singer',
             path: './assets/mp3/y2meta.com - tlinh - nếu lúc đó _ OFFICIAL VISUALIZER (128 kbps).mp3',
             image: './assets/img/neulucdo.png',
             lyric: `No lyric`
         },
         {
             name: 'Sài gòn hôm nay mưa',
-            singer: 'Not singer',
+            singer: 'No singer',
             path: './assets/mp3/y2meta.com - Sài Gòn Hôm Nay Mưa (Lo-fi) - Hoàng Duyên ft. JSOL (128 kbps).mp3',
             image: './assets/img/saigonhomnaymua.png',
             lyric: `No lyric`
         },
         {
             name: 'Sa vào nguy hiểm',
-            singer: 'Not singer',
+            singer: 'No singer',
             path: './assets/mp3/y2meta.com - Mashup Trái Tim Trống Rỗng + Sa Vào Nguy Hiểm + Không Còn Nước Mắt 空心 + 悬溺 + 没有泪点 (128 kbps).mp3',
             image: './assets/img/savaonguyhiem.png',
             lyric: `No lyric`
         },
         {
             name: 'Thằng điên',
-            singer: 'Not singer',
+            singer: 'No singer',
             path: './assets/mp3/y2meta.com - Thằng Điên _ Justatee x Phương Ly _ slowed + reverb (128 kbps).mp3',
             image: './assets/img/thangdien.png',
             lyric: `No lyric`
