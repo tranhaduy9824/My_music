@@ -344,7 +344,7 @@ const main = {
         {
             name: 'Sa vào nguy hiểm',
             singer: 'No singer',
-            path: './assets/mp3/y2meta.com - Mashup Trái Tim Trống Rỗng + Sa Vào Nguy Hiểm + Không Còn Nước Mắt 空心 + 悬溺 + 没有泪点 (128 kbps).mp3',
+            path: './assets/mp3/y2meta.com - Mashup Trái Tim Trống Rỗng + Sa Vào Nguy Hiểm + Không Còn Nước Mắt(128 kbps).mp3',
             image: './assets/img/savaonguyhiem.png',
             lyric: `No lyric`
         },
